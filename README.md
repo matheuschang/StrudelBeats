@@ -11,7 +11,7 @@ My personal repository for live-coded music created with **Strudel**. This repo 
 ├── Samples/
 │   └── (my audio and samples)
 ├── Songs/
-│   └── (strudel codes / songs)
+│   └── (strudel code / songs)
 └── README.md
 ```
 
