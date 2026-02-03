@@ -36,7 +36,7 @@ This repository is meant to:
 
 ## 🎧 Usage
 
-1. Open **Strudel** in your browser.
+1. Open [**Strudel**](https://strudel.cc/) in your browser.
 2. Load or copy a song from the `Songs/` folder.
 3. Make sure the samples referenced by the song are available (locally or uploaded to Strudel if needed).
 4. Modify, remix, and perform.
